@@ -58,6 +58,7 @@ more than 1 follower: 6097 out of 18659
 > Application of __sqlite3, pandas, numpy, matploit, seaborn__.
 
 - check for missing values
+  - fill missing values using the Spotify WebAPI
 
 Correlation analysis using `sns.heatmap`.
 
@@ -76,7 +77,8 @@ Correlation analysis using `sns.heatmap`.
 
 > Application of __sqlite3, pandas__.
 
-- check for missing values.
+- check for missing values
+  - fill missing values using the Spotify WebAPI
 - convert track duration from `ms` to `s`.
 
 ### 08. Artist Exploration
@@ -84,7 +86,7 @@ Correlation analysis using `sns.heatmap`.
 > Application of __sqlite3, pandas__
 
 - check for missing values
-
+  - fill missing values using the Spotify WebAPI
 ### 09. Artist Clustering
 
 > Application of __sqlite3, pandas, matploit, seaborn, sklearn__
