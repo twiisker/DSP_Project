@@ -3,6 +3,7 @@ Spotify analysis using KMeans to recommend songs &amp; artists
 
 ## Spotify data analysis
 > Can recommendations for artists/songs be made on the basis of the data?
+>
 > Can unknown artists and titles be recommended?
 
 ### 01. Database creation
@@ -28,6 +29,8 @@ Batch loading of JSON data to improve perfomance.
   - Artists
   - Tracks
   - Playlist Tracks
+ 
+- An attempt was made to load JSON batch data in parallel, but the data was not imported correctly. 
 
 ### 03. Import data from database
 
